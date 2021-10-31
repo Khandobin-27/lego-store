@@ -1,0 +1,59 @@
+
+[
+    {
+      "id": 1,
+      "name": "Jurassic World",
+      "category": "Primary Color",
+      "priceCents": 1600,
+      "imageColor": "https://www.lego.com/cdn/cs/set/assets/blta6411690f3f8deec/76941_alt1.jpg?fit=bounds&format=jpg&quality=80&width=1600&height=1600&dpr=1"
+    },
+    {
+      "id": 2,
+      "name": "City",
+      "category": "Primary Color",
+      "priceCents": 2100,
+      "imageColor": "https://cdn.verk.net/cdn-cgi/image/w=816,h=510,fit=scale-down,q=75,f=auto,sharpen=0.5/images/81/2_362137-4000x3286.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Creator",
+      "category": "Primary Color",
+      "priceCents": 1200,
+      "imageColor": "https://sh-s7-live-s.legocdn.com/is/image/LEGO/10270_alt1?wid=1000"
+    },
+    {
+      "id": 4,
+      "name": "Movie",
+      "category": "Secondary Color",
+      "priceCents": 1800,
+      "imageColor": "https://m.media-amazon.com/images/I/91JygQoVTkL._AC_SX425_.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Star Wars",
+      "category": "Secondary Color",
+      "priceCents": 1600,
+      "imageColor": "https://m.media-amazon.com/images/I/61XCVSnITnL._AC_SX425_.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Minecraft",
+      "category": "Secondary Color",
+      "priceCents": 2100,
+      "imageColor": "https://www.lego.com/cdn/cs/set/assets/bltffe26965b1cabd31/21171_alt1.jpg?fit=bounds&format=jpg&quality=80&width=1600&height=1600&dpr=1"
+    },
+    {
+      "id": 7,
+      "name": "Super Heroes",
+      "category": "Grayscale",
+      "priceCents": 1200,
+      "imageColor": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6203/6203207_rd.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Technic",
+      "category": "Grayscale",
+      "priceCents": 1600,
+      "imageColor": "https://s3-us-west-2.amazonaws.com/media.brothers-brick.com/2021/07/LEGO-Technic-42128-Heavy-Duty-Tow-Truck-A3TIH-12-640x500.jpg"
+    }
+  ]
